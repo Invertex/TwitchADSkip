@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Twitch AD Skip
-// @namespace    Invertex
+// @version      0.3
+// @description  Skip Twitch ADs
+// @namespace    https://github.com/Invertex/TwitchADSkip
 // @icon 	 https://i.imgur.com/3hWqlpx.png
+// @homepageURL  https://github.com/Invertex/TwitchADSkip
 // @updateURL    https://github.com/Invertex/TwitchADSkip/raw/main/TwitchADSkip.user.js
 // @downloadURL  https://github.com/Invertex/TwitchADSkip/raw/main/TwitchADSkip.user.js
-// @version      0.2
-// @description  Skip Twitch ADs
 // @author       Invertex
 // @match        *://*.twitch.tv/*
 // @match        *://*.twitchcdn.net/*
